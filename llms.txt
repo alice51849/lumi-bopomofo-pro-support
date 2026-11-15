@@ -14,11 +14,4 @@
 - [Support and contact](https://open.cait518.cc/lumi-bopomofo-pro-support/support.html)
 - [Privacy policy](https://open.cait518.cc/lumi-bopomofo-pro-support/privacy.html)
 
-## Product fact cards
-
-- [Lumi Bopomofo Pro — product fact card (en)](https://open.cait518.cc/lumi-bopomofo-pro-support/about-lumi-bopomofo-pro-app.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
-- [Lumi注音星球 Pro — product fact card (zh-Hant)](https://open.cait518.cc/lumi-bopomofo-pro-support/about-lumi-bopomofo-pro-app.zh-Hant.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
-- [Lumi Bopomofo Pro — product fact card (th)](https://open.cait518.cc/lumi-bopomofo-pro-support/about-lumi-bopomofo-pro-app.th.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
-- [Lumi Bopomofo Pro — product fact card (ja)](https://open.cait518.cc/lumi-bopomofo-pro-support/about-lumi-bopomofo-pro-app.ja.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
-
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
